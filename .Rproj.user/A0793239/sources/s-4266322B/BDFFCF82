@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1586716502558.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2351797502",
+    "id" : "BDFFCF82",
+    "lastKnownWriteTime" : 1586716856,
+    "last_content_update" : 1586716856637,
+    "path" : "~/Desktop/LearnR/test_local_to_git_hub/local_file_for_git_hub_push.R",
+    "project_path" : "local_file_for_git_hub_push.R",
+    "properties" : {
+        "cursorPosition" : "1,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
